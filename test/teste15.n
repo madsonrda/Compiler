@@ -1,0 +1,13 @@
+
+var a = 0
+var b = 1
+var c = 0
+var n = 29
+
+while (b < n) do
+  c = a
+  a = b
+  b = a + c
+end
+  
+print(a)

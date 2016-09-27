@@ -1,0 +1,14 @@
+
+ var x
+var y
+
+x = 3
+y = x + 2
+       
+if (y > x) then
+  print(x)
+else
+  if x > 0 then
+    print(x+y)  
+  end
+end

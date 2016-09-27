@@ -1,0 +1,7 @@
+var x=1;var y=2; var w=7;var z=3; 
+if ( x * 4 / 6 * z + y / 2 * - 8 - 8 * 2 * y / x - 6 ) >= ( - x ) / 9 * y - ( 2 / 1 * - 0 + 7 ) + 8 / - w - - ( 6 ) then x = ( ( 2 * - y + 7 / - 5 ) - 7 + 7 * y ) / - 7 + y / - ( z + x - 1 - 1 / 2 ) end; 
+if - z > - y then z = 8 - - 6 end; 
+
+w = 8 
+
+print ( x - y - z - w )

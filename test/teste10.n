@@ -1,0 +1,11 @@
+
+var x = 0;
+  
+while ( x < 10 ) do
+    if (x > 5) then
+      x = x * 173
+    end
+    x = x + 1;
+end
+
+print(x)

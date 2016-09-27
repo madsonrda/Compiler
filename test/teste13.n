@@ -1,0 +1,12 @@
+
+var i = 0
+var n = 89
+
+while i < n do
+  if not i then
+     i = i + 2
+  end
+  i = i + 7
+end
+
+print(i)
